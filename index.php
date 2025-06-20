@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EMPIRES COMPUTER</title>
+    <link rel="shortcut icon" href="./aset/image/ROUND LOGO PNG.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@200..700&display=swap"
+        rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400..700;1,400..700&family=Oswald:wght@200..700&family=Poetsen+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="./style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+</head>
+
+<a href="#"></a>
+<body>
+    <?php require_once("./header.php"); ?>
+   <a href="up"></a>
+    <main>
+        <div class="fluid" id="home">
+            <div class="corausel slide ">
+                <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="./aset/image/carousel-1.jpg" class="img-fluid" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="./aset/image/carousel-2.jpg" class="img-fluid" alt="...">
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+
+
+        <section class="container my-5">
+            <div class="row zoom">
+                <div class="col-sm-3 d-flex flex-column justify-content-center align-items-center boxdiv"><i class="bi bi-mortarboard" style="display: flex;"></i>
+                    <h6>Skill Instructors</h6>
+                </div>
+                <div class="  col-sm-3 d-flex flex-column justify-content-center align-items-center boxdiv"><i class="bi bi-globe-central-south-asia"></i>
+                    <h6>100% Practicle</h6>
+                </div>
+                <div class="  col-sm-3 d-flex flex-column justify-content-center align-items-center boxdiv"><i class="bi bi-house-door-fill"></i>
+                    <h6>Home Projects</h6>
+                </div>
+                <div class="  col-sm-3 d-flex flex-column justify-content-center align-items-center boxdiv"><i class="bi bi-book-fill"></i>
+                    <h6>Well Education</h6>
+                </div>
+            </div>
+        </section>
+
+        <section class="container mb-5" id="about" >
+            <div class="row">
+                <div class="col-sm-6"><img src="./aset/image/about.jpg" class="img-fluid" alt="" height="500px" width="470px"></div>
+                <div class="col-sm-6">
+                    <h5 class="mt-2">ABOUT AS <span></span></h5>
+                    <h2>Welcome to Empires <br> Computer</h2>
+                    <p style="text-align: justify;">We, Empires Computer, situated at Rajkot, Gujarat are a leading institute offering a wide range of computer courses for all. Our mission is quality with an affordable fee structure. Our uniquely curriculum makes our students employable and future ready. </p>
+                    <p style="text-align: justify;">We have a dedicated team of skilled teachers and counsellors who make sure that regular up-gradation of courses is provided to students along with career guidance. Our professional team works harmoniously in unison, pushing the frontiers in growth and quality in imparting education.</p>
+                    <div class="row gy-2 gx-4 mb-4">
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-arrow-right  me-2" style="color: #fe6905"></i>Skilled Instructors</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-arrow-right  me-2" style="color: #fe6905"></i>100% Practicle</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-arrow-right  me-2" style="color: #fe6905"></i>Govt. Authorised Certificate</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-arrow-right  me-2" style="color: #fe6905"></i>Skilled Instructors</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-arrow-right  me-2" style="color: #fe6905"></i>Up Gradation of Course</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-arrow-right  me-2" style="color: #fe6905"></i>Personlised Attention</p>
+                        </div>
+                    </div>
+                    <button class="btn btn-md " style="background-color: #fe6905; color:white;">Read More</button>
+
+                </div>
+            </div>
+        </section>
+
+
+
+        <div class="container-xxl py-5 category" id="course">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+            <h3 class="section-title bg-white text-center px-3" style="color: #fe6905;">Categories</h3>
+            <h1 class="mb-5">Courses Categories</h1>
+        </div>
+        <div class="row g-3">
+            <div class="col-lg-7 col-md-6">
+                <div class="row g-3">
+                    <div class="col-lg-12 col-md-12" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: zoomIn;">
+                        <a class="position-relative d-block overflow-hidden" href="">
+                            <img class="img-fluid" src="./aset/image/div1.jpg" name="empires computer rajkot" alt="empires computer rajkot">
+                            <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
+                                <h5 class="m-0">GOVT Authorised</h5>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: zoomIn;">
+                        <a class="position-relative d-block overflow-hidden" href="">
+                            <img class="img-fluid" src="./aset/image/div3.jpg" name="empires computer rajkot" alt="empires computer rajkot">
+                            <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
+                                <h5 class="m-0">Graphic Design</h5>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: zoomIn;">
+                        <a class="position-relative d-block overflow-hidden" href="">
+                            <img class="img-fluid" src="./aset/image/div4.jpg" name="empires computer rajkot" alt="empires computer rajkot">
+                            <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
+                                <h5 class="m-0">Web Design</h5>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-5 col-md-6 wow zoomIn" data-wow-delay="0.7s" style="min-height: 350px; visibility: visible; animation-delay: 0.7s; animation-name: zoomIn;">
+                <a class="position-relative d-block h-100 overflow-hidden" href="">
+                    <img class="img-fluid position-absolute w-100 h-100" src="./aset/image/div2.jpg" name="empires computer rajkot" alt="empires computer rajkot" style="object-fit: cover;">
+                    <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
+                        <h5 class="m-0">Accounting</h5>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+    </main>
+
+
+    <div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+            <h3 class="section-title bg-white text-center px-3" style="color: #fe6905;">Courses</h3>
+            <h1 class="mb-5">Popular Courses</h1>
+        </div>
+        <div class="row g-4 justify-content-center">
+            <div class="col-lg-4 col-md-6">
+                <div class="course-item bg-light">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid" src="./aset/image/ccc.jpg" alt="empires computer rajkot" name="empires computer rajkot">
+                        <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                        </div>
+                    </div>
+                    <div class="text-center p-4 pb-0">
+                        <h3 class="mb-0"></h3>
+                        <h5 class="mb-4">CCC (Govt. Authorised Course)</h5>
+                    </div>
+                    <div class="d-flex border-top">
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="course-item bg-light">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid" src="./aset/image/tally.jpg" alt="empires computer rajkot" name="empires computer rajkot">
+                        <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                        </div>
+                    </div>
+                    <div class="text-center p-4 pb-0">
+                        <h3 class="mb-0"></h3>
+                        <h5 class="mb-4">Tally with GST</h5>
+                    </div>
+                    <div class="d-flex border-top">
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="course-item bg-light">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid" src="./aset/image/miracle.jpg" alt="empires computer rajkot" name="empires computer rajkot">
+                        <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                        </div>
+                    </div>
+                    <div class="text-center p-4 pb-0">
+                        <h3 class="mb-0"></h3>
+                        <h5 class="mb-4">Miracle with GST</h5>
+                    </div>
+                    <div class="d-flex border-top">
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="course-item bg-light">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid" src="./aset/image/guj.jpg" alt="empires computer rajkot" name="empires computer rajkot">
+                        <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                        </div>
+                    </div>
+                    <div class="text-center p-4 pb-0">
+                        <h3 class="mb-0"></h3>
+                        <h5 class="mb-4">GUJARATI-HINDI TYPING</h5>
+                    </div>
+                    <div class="d-flex border-top">
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="course-item bg-light">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid" src="./aset/image/graphics.jpg" alt="empires computer rajkot" name="empires computer rajkot">
+                        <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                        </div>
+                    </div>
+                    <div class="text-center p-4 pb-0">
+                        <h3 class="mb-0"></h3>
+                        <h5 class="mb-4">GRAPHIC DESIGNING</h5>
+                    </div>
+                    <div class="d-flex border-top">
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="course-item bg-light">
+                    <div class="position-relative overflow-hidden">
+                        <img class="img-fluid" src="./aset/image/web.jpg" alt="empires computer rajkot" name="empires computer rajkot">
+                        <div class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4">
+                        </div>
+                    </div>
+                    <div class="text-center p-4 pb-0">
+                        <h3 class="mb-0"></h3>
+                        <h5 class="mb-4">Web Design &amp; Development Course for Beginners</h5>
+                    </div>
+                    <div class="d-flex border-top">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <footer class="text-light py-4 div-7">
+    <div class="container">
+        <div class="row">
+          
+            <div class="col-lg-4 col-md-6 mb-4">
+                <h5>Branch-1</h5>
+                <p>1st Floor, Krishna Complex, <br> Juno Morbi Road, Opp. Dholakiya School, <br> Rajkot-360003</p>
+            </div>
+           
+            <div class="col-lg-4 col-md-6 mb-4">
+                <h5>Branch-2</h5>
+                <p>2nd Floor, Devbhumi Complex, <br> 80 Feet Rd, opp. The Gulmohar plaza, <br> Railnagar, Rajkot-360003</p>
+            </div>
+            <!-- Footer Column 3 -->
+            <div class="col-lg-4 col-md-12 mb-4">
+                <h5>Contact Us</h5>
+                <p><i class="bi bi-geo-alt-fill"></i> Rajkot, Gujarat</p>
+                <p><i class="bi bi-telephone-fill"></i> +91 9408378161 </p>
+                <p><i class="bi bi-envelope-fill"></i> empirescomputer81@gmail.com
+
+</p>
+            </div>
+        </div>
+        <div class="text-center border-top pt-3">
+            <p class="mb-0">&copy; 2023 Empires Computer. All Rights Reserved. Develope By<span>   Ashish Halvadiya</span></p>
+        </div>
+    </div>
+
+
+ <a href="#" class="top"><i class="bi bi-chevron-double-up"></i></a>
+
+
+</footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
