@@ -47,7 +47,9 @@ h5 {
 }
 
 .div-7 {
-    background-color: #e66c1c;
+    
+    color: black;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.589);
 }
 
 .top {
